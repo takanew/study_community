@@ -33,5 +33,6 @@
 ## 使用素材
 - 後ほど記入予定
 
-## 実装機能リストURL
+## 各種URL
+- 実装機能リストURL
 https://docs.google.com/spreadsheets/d/1ELdw0tiilIkcHBCdITDkwtQUJH__tECb2lhbn9NVkBw/edit#gid=885378170
